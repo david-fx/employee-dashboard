@@ -1,0 +1,13 @@
+.kpi-container {
+  display: flex;
+  gap: 20px;
+  margin: 20px 0;
+}
+.kpi-card {
+  background: #f0f4f8;
+  padding: 15px;
+  border-radius: 8px;
+  flex: 1;
+  text-align: center;
+  font-weight: bold;
+}

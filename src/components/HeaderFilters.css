@@ -1,0 +1,15 @@
+.sticky-header {
+  position: fixed;       /* menempel di atas */
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: white;
+  border-bottom: 1px solid #ddd;
+  padding: 15px 20px;
+  z-index: 1000;         /* supaya tidak tertutup chart */
+}
+
+.sticky-header h1 {
+  margin: 0 0 10px 0;
+  font-size: 20px;
+}
